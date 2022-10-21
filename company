@@ -1,0 +1,125 @@
+{
+  "label": "Language",
+  "div": {
+    "@class": "list-select-wrap",
+    "select": {
+      "@name": "filter-language",
+      "@id": "filter-language",
+      "option": [
+        {
+          "@value": "any",
+          "@selected": "",
+          "#text": "Any"
+        },
+        {
+          "@value": "arabic",
+          "#text": "Arabic"
+        },
+        {
+          "@value": "bengali",
+          "#text": "Bengali"
+        },
+        {
+          "@value": "cantonese",
+          "#text": "Cantonese"
+        },
+        {
+          "@value": "english",
+          "#text": "English"
+        },
+        {
+          "@value": "farsi",
+          "#text": "Farsi"
+        },
+        {
+          "@value": "french",
+          "#text": "French"
+        },
+        {
+          "@value": "greek",
+          "#text": "Greek"
+        },
+        {
+          "@value": "gujarati",
+          "#text": "Gujarati"
+        },
+        {
+          "@value": "hebrew",
+          "#text": "Hebrew"
+        },
+        {
+          "@value": "hindi",
+          "#text": "Hindi"
+        },
+        {
+          "@value": "italian",
+          "#text": "Italian"
+        },
+        {
+          "@value": "korean",
+          "#text": "Korean"
+        },
+        {
+          "@value": "mandarin",
+          "#text": "Mandarin"
+        },
+        {
+          "@value": "marwari",
+          "#text": "Marwari"
+        },
+        {
+          "@value": "mongolian",
+          "#text": "Mongolian"
+        },
+        {
+          "@value": "nepali",
+          "#text": "Nepali"
+        },
+        {
+          "@value": "persian",
+          "#text": "Persian"
+        },
+        {
+          "@value": "polish",
+          "#text": "Polish"
+        },
+        {
+          "@value": "punjabi",
+          "#text": "Punjabi"
+        },
+        {
+          "@value": "romanian",
+          "#text": "Romanian"
+        },
+        {
+          "@value": "russian",
+          "#text": "Russian"
+        },
+        {
+          "@value": "spanish",
+          "#text": "Spanish"
+        },
+        {
+          "@value": "tagalog",
+          "#text": "Tagalog/Filipino"
+        },
+        {
+          "@value": "telugu",
+          "#text": "Telugu"
+        },
+        {
+          "@value": "ukrainian",
+          "#text": "Ukrainian"
+        },
+        {
+          "@value": "urdu",
+          "#text": "Urdu"
+        },
+        {
+          "@value": "vietnamese",
+          "#text": "Vietnamese"
+        }
+      ]
+    }
+  }
+}
